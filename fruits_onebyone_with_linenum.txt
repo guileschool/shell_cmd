@@ -1,0 +1,13 @@
+1.strawberry
+2.apple
+3.watermelon
+4.banana
+5.pineapple
+6.grapes
+7.pear
+8.lemon
+9.orange
+10.tomato
+11.orientalmelon
+12.mandarinorange
+13.kiwi

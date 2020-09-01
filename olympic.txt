@@ -1,0 +1,71 @@
+City    Country Continent   Summer (Olympiad)   Winter  Year    Opening Ceremony    Closing Ceremony
+Athens   Greece Europe  I   —   1896    April 6 April 15
+Paris    France Europe  II  —   1900    May 14  October 28
+St. Louis[a]     United States  North America   III —   1904    July 1  November 23
+London[c]    United Kingdom Europe  IV  —   1908    April 27    October 31
+Stockholm    Sweden Europe  V   —   1912    May 5   July 22
+Berlin   Germany    Europe  VI  —   1916    Cancelled due to WWI[4]
+Antwerp[d]   Belgium    Europe  VII —   1920    April 20    September 12[5]
+Chamonix     France Europe  —   I   1924    January 25  February 4[6]
+Paris    France Europe  VIII    —   May 4   July 27[7]
+St. Moritz    Switzerland   Europe  —   II  1928    February 11 February 19[8]
+Amsterdam    Netherlands    Europe  IX  —   May 17  August 12[9]
+Lake Placid  United States  North America   —   III 1932    February 4  February 15[10]
+Los Angeles  United States  North America   X   —   July 30 August 14[11]
+Garmisch-Partenkirchen   Nazi Germany   Europe  —   IV  1936    February 6  February 16[12]
+Berlin   Nazi Germany   Europe  XI  —   August 1    August 16[13]
+Sapporo
+Garmisch-Partenkirchen[e]    Empire of Japan
+ Nazi Germany   Asia
+Europe  —   V   1940    Cancelled due to WWII[4]
+Tokyo
+Helsinki[f]  Empire of Japan
+ Finland    Asia
+Europe  XII —
+Cortina d'Ampezzo    Italy  Europe  —   V   1944
+London   United Kingdom Europe  XIII    —
+St. Moritz    Switzerland   Europe  —   V   1948    January 30  February 8
+London   United Kingdom Europe  XIV —   July 29 August 14
+Oslo     Norway Europe  —   VI  1952    February 14 February 25
+Helsinki     Finland    Europe  XV  —   July 19 August 3
+Cortina d'Ampezzo    Italy  Europe  —   VII 1956    January 26  February 5
+Melbourne
+Stockholm[g]     Australia
+ Sweden Oceania
+Europe  XVI —   November 22
+June 10 December 8
+June 17
+Squaw Valley     United States  North America   —   VIII    1960    February 18 February 28
+Rome     Italy  Europe  XVII    —   August 25   September 11
+Innsbruck    Austria    Europe  —   IX  1964    January 29  February 9
+Tokyo    Japan  Asia    XVIII   —   October 10  October 24
+Grenoble     France Europe  —   X   1968    February 6  February 18
+Mexico City  Mexico North America   XIX —   October 12  October 27
+Sapporo  Japan  Asia    —   XI  1972    February 3  February 13
+Munich   West Germany   Europe  XX  —   August 26   September 11
+Innsbruck    Austria    Europe  —   XII 1976    February 4  February 15
+Montreal     Canada North America   XXI —   July 17 August 1
+Lake Placid  United States  North America   —   XIII    1980    February 12 February 24
+Moscow   Soviet Union   Europe[h]   XXII    —   July 19 August 3
+Sarajevo     Yugoslavia Europe  —   XIV 1984    February 7  February 19
+Los Angeles  United States  North America   XXIII   —   July 28 August 12
+Calgary  Canada North America   —   XV  1988    February 13 February 28
+Seoul    South Korea    Asia    XXIV    —   September 17    October 2
+Albertville  France Europe  —   XVI 1992    February 8  February 23
+Barcelona    Spain  Europe  XXV —   July 25 August 9
+Lillehammer  Norway Europe  —   XVII    1994    February 12 February 27
+Atlanta  United States  North America   XXVI    —   1996    July 19 August 4
+Nagano   Japan  Asia    —   XVIII   1998    February 7  February 22
+Sydney   Australia  Oceania XXVII   —   2000    September 15    October 1
+Salt Lake City   United States  North America   —   XIX 2002    February 8  February 24
+Athens   Greece Europe  XXVIII  —   2004    August 13   August 29
+Torino   Italy  Europe  —   XX  2006    February 10 February 26
+Beijing[i]   China  Asia    XXIX    —   2008    August 8    August 24
+Vancouver    Canada North America   —   XXI 2010    February 12 February 28
+London   United Kingdom Europe  XXX —   2012    July 27 August 12
+Sochi    Russia Europe[h]   —   XXII    2014    February 7  February 23
+Rio de Janeiro   Brazil South America   XXXI    —   2016    August 5    August 21
+Pyeongchang  South Korea    Asia    —   XXIII   2018    February 9  February 25
+Tokyo    Japan  Asia    XXXII   —   2020    July 24 August 9
+Beijing  China  Asia    —   XXIV    2022    February 4  February 20
+Paris    France Europe  XXXIII  —   2024    July 26
